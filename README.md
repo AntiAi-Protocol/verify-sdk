@@ -1,7 +1,3 @@
-<div align="center">
-  <img src="https://antiai.me/logo.png" alt="AntiAI Protocol Logo" width="120" />
-</div>
-
 <h1 align="center">@antiai/verify-sdk</h1>
 
 <p align="center">
