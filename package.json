@@ -1,0 +1,34 @@
+{
+  "name": "@antiai/verify-sdk",
+  "version": "1.0.0",
+  "description": "Official cryptographic media verification SDK for the AntiAI Protocol. Establish indisputable content provenance using Ed25519 digital signatures.",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AntiAi-Protocol/verify-sdk.git"
+  },
+  "keywords": [
+    "antiai",
+    "media-verification",
+    "cryptography",
+    "deepfake-detection",
+    "provenance",
+    "c2pa",
+    "ed25519",
+    "security"
+  ],
+  "author": "AntiAI Protocol",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AntiAi-Protocol/verify-sdk/issues"
+  },
+  "homepage": "https://antiai.me",
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
